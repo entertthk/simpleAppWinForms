@@ -1,0 +1,9 @@
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.Form1.resources
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.Properties.Resources.resources
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.csproj.GenerateResource.cache
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\bin\Debug\simpleApp.exe.config
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\bin\Debug\simpleApp.exe
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\bin\Debug\simpleApp.pdb
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.exe
+C:\Users\Laptop\source\repos\simpleApp\simpleApp\obj\Debug\simpleApp.pdb
